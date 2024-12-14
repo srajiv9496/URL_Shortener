@@ -94,4 +94,3 @@ To run the project locally, follow these steps:
 
 ### **Connection**
 - `connection/index.js`: Establishes the connection to the MongoDB database.
-
